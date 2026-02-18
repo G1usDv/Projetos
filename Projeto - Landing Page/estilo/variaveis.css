@@ -1,0 +1,22 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&family=Zalando+Sans:ital,wght@0,200..900;1,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chewy&family=Slackey&family=Space+Grotesk:wght@300..700&family=Zalando+Sans:ital,wght@0,200..900;1,200..900&display=swap');
+@font-face {
+    font-family: 'Destaque';
+    src: url(../fontes/fonte.otf) format(opentype);
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+:root{
+    --fonte-padrao: 'Zalando Sans', Arial, Verdana, Helvetica, sans-serif;
+    --fonte-logo: 'Slackey', Arial, Verdana, Helvetica, sans-serif;
+    --fonte-destaque: 'Destaque', Arial, Verdana, Helvetica, sans-serif;
+    
+    --cor1:#2F73C1;
+    --cor2:#1579EB;
+    --cor3:#3F546B;
+    --cor4:#313841;
+    --cor5:#313438; 
+}
